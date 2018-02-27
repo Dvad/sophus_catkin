@@ -1,0 +1,11 @@
+<package>
+  <name>sophus_catkin</name>
+  <version>0.0.0</version>
+  <description>sophus_catkin</description>
+  <maintainer email="david.caruso@polytechnique.edu">David Caruso</maintainer>
+
+  <license>See package</license>
+  <buildtool_depend>eigen_catkin</buildtool_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>catkin_simple</buildtool_depend>
+</package>
